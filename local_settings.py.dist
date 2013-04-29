@@ -1,0 +1,10 @@
+# local_settings.py.dist
+# copy to local_settings.py and edit accordingly
+
+import os
+_basedir = os.path.abspath(os.path.dirname(__file__))
+
+DATABASE = ""
+
+# Update with output from gimme_key.py
+SECRET_KEY = "filL$Me*iN"
