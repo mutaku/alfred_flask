@@ -1,6 +1,5 @@
 Alfred - The Flask Version
 
-I am some Python that runs websites.
-More specifically, I am some Django that runs websites that are blogs.
-I am very simple Python to run elegantly simple blogs.
-Thanks for reading me.
+Alfred is a Python-based CMS that drives Mutaku.
+This iteration utilizes Flask in order to create
+a simple and lean workflow.
