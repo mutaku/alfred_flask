@@ -11,6 +11,7 @@ include
 *.pyc
 *~
 local_settings.py
+*.db
 *.sq3
 *.JPG
 *.jpg
