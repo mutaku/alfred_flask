@@ -1,0 +1,20 @@
+# Virtualenv
+.Python
+bin
+lib
+include
+
+#Python
+*.swp
+*.swo
+*.swn
+*.pyc
+*~
+local_settings.py
+*.sq3
+*.JPG
+*.jpg
+*.png
+*.PNG
+*.gif
+*.GIF
